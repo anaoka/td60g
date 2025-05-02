@@ -1,0 +1,12 @@
+{
+ "version":"9.25",
+ "expire881":"1000",
+ "expire870":"1000",
+ "store":"1",
+ "rewards":"",
+ "title":"تحزيث جديد متوفر الان 🛠️",
+ "description":"Uma nova atualização está disponível e incluí novos recursos e correções de bugs.",
+ "download":"https://t.me/jubatek",
+ "users_premium":"",
+ "force":"true"
+}
